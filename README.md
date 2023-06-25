@@ -16,7 +16,7 @@
 1. Open a terminal window.
 2. Navigate to the unzipped folder location.
 3. In the terminal type: `chmod +x server`. Press Enter.
-4. In the terminal type: `xattr -dr com.apple.quarantine`. Press Enter.
+4. In the terminal type: `xattr -dr com.apple.quarantine server`. Press Enter.
 5. Hit `Enter`.
 6. In the terminal type: `./server`.
 7. Hit `Enter`.
