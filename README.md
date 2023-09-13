@@ -6,6 +6,8 @@ This repo provides a server that folks can use to run the the Snowflake-Relation
 
 ### Downloading
 
+*Note: this application delivers Act 2 (Graph Visualization) and Act 3 (Optimization). If you only want Act 2, first navigate to this branch and then continue with the instructions below: [https://github.com/sswatson/rai-snowflake-demo-app/tree/act-2-only](https://github.com/sswatson/rai-snowflake-demo-app/tree/act-2-only).*
+
 Start by clicking the green "Code" button above and select "Download ZIP" to download this repo. Unzip the directory on your local machine.
 
 ### Running the demo - Windows
